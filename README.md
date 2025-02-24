@@ -5,7 +5,7 @@
 staying up to date with Gen AI: `LLM, agents, image and video generation` **IT'S ALOT!🤯**
 
 - 🌌 Future projects excited for:
-  1. Allergy AI (personally just want to in the health care space)
+  1. Allergy AI (personally just want to help in the health care space)
   2. Customer List (personally want to help my Mom)
 
 
