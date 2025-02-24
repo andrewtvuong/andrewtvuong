@@ -1,8 +1,8 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ...
-improving image and video generation
+`improving image and video generation`
 - 🌱 I’m currently learning ...
-staying up to date with Gen AI: `LLM, agents, image and video generation`
+staying up to date with Gen AI: `LLM, agents, image and video generation` **IT'S ALOT!🤯**
 
 <!--
 **andrewtvuong/andrewtvuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
